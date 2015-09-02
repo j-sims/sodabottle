@@ -1,6 +1,6 @@
 # sodabottle
 
-Soda Bottles have for years been a great way for companies to deliver your favorite flavors to your desk.  
+Soda Bottles have for years been a great way for companies to deliver your favorite flavors to your desk.  Now your soda bottle can bring you your favorite bottle/cork/beaker app.
 
 # Description
 Docker Container for executing python bottle based apps
